@@ -2,11 +2,11 @@
 
 namespace testapp
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World 2!");
-        }
+      Console.WriteLine("Hello World 2 - on local branch!");
     }
+  }
 }
